@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7MAYptMlGY=",
+  "success": true,
+  "projectFilePath": "/home/chikoyeat/projects/fsharp/spaceinvaders/SpaceInvadersCLI.fsproj",
+  "expectedPackageFiles": [
+    "/home/chikoyeat/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

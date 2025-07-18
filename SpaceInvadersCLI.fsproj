@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Player.fs" />
+    <Compile Include="Alien.fs" />
+    <Compile Include="Bullet.fs" />
+    <Compile Include="Game.fs" />
+    <Compile Include="Renderer.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
