@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chikoyeat/projects/fsharp/spaceinvaders/SpaceInvadersCLI.fsproj",
+      "projectUniqueName": "/home/chikoyeat/projects/fsharp/spaceinvaders.fs/SpaceInvadersCLI.fsproj",
       "projectName": "SpaceInvadersCLI",
-      "projectPath": "/home/chikoyeat/projects/fsharp/spaceinvaders/SpaceInvadersCLI.fsproj",
+      "projectPath": "/home/chikoyeat/projects/fsharp/spaceinvaders.fs/SpaceInvadersCLI.fsproj",
       "packagesPath": "/home/chikoyeat/.nuget/packages/",
-      "outputPath": "/home/chikoyeat/projects/fsharp/spaceinvaders/obj/",
+      "outputPath": "/home/chikoyeat/projects/fsharp/spaceinvaders.fs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chikoyeat/.nuget/NuGet/NuGet.Config"
